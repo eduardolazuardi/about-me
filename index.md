@@ -6,7 +6,7 @@ title: Andreas Eduardo LAZUARDI
 Wholesale Risk & Portfolio Analytics, Rich visualisations and Actionable insights.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="eduardolazuardi@gmail.com">eduardolazuardi@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
