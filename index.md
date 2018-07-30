@@ -7,17 +7,17 @@ Wholesale Risk & Portfolio Analytics, Rich visualisations and Actionable insight
 
 <div id="webaddress">
 <a href="eduardolazuardi@gmail.com">eduardolazuardi@gmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://eduardolazuardi.github.io/about-me/">Get the latest version here</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Head of Wholesale Portfolio Management, Vice President, UOB Indonesia.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+
 
 
 ### Research interests
@@ -86,6 +86,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2018 -->
 
 
