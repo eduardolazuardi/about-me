@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Andreas Eduardo LAZUARDI
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Andreas Eduardo LAZUARDI
+Wholesale Risk & Portfolio Analytics, Rich visualisations and Actionable insights.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
